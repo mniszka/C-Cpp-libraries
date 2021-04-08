@@ -1,4 +1,4 @@
-## main functions in C++:
+## main libraries in C++:
 
 iostream  <br>
 fstream  <br>
