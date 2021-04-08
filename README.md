@@ -1,4 +1,4 @@
-##main functions in C++
+## main functions in C++:
 
 #include <iostream> //standard library <br>
 #include <fstream> //file stream <br>
