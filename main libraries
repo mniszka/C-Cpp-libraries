@@ -3,3 +3,4 @@
 #include <stdio.h> //standard input output
 #include <math.h> 
 #include <cstring>
+#include <vector>
