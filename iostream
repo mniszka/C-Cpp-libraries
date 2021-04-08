@@ -1,0 +1,4 @@
+#include <iostream>
+
+cin >> "xyx">> endl;
+cout << "xyz" <<
