@@ -1,7 +1,7 @@
 #include <math.h>
 
 sqrt(25) //square root
-pow(5) //power 5^2
+pow(5,2) //power 5^2
 pow(5,3)  //5^3
 log()
 fabs() // absolute value
