@@ -2,5 +2,5 @@
 #include <fstream> //file stream
 #include <stdio.h> //standard input output
 #include <math.h> 
-#include <cstring>
+#include <string>
 #include <vector>
