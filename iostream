@@ -3,4 +3,4 @@
 cin >> "xyx";
 cout << "xyz"<<endl;
 
- printf("xyz"\n);
+ printf("xyz\n");
