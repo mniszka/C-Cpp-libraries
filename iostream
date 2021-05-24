@@ -1,4 +1,6 @@
 #include <iostream>
 
-cin >> "xyx">> endl;
-cout << "xyz";
+cin >> "xyx";
+cout << "xyz"<<endl;
+
+ printf("xyz"\n);
